@@ -6,3 +6,5 @@ The first is called toyuniversity and the second clystms (renamed c4333f16) for 
 
 While these are class assignments, I have chosen to upload my version of the solutions only after they have been graded and my professor 
 has uploaded his solutions to his website. 
+
+The file toyuniversity.sql builds the toyuniversity database that is used for certain queries.
